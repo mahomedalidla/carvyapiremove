@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+rembg
+onnxruntime
+pillow
+numpy<2
+supabase
+python-dotenv
+gunicorn
+google-generativeai
+requests
+google-genai
